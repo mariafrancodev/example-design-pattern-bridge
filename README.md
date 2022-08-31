@@ -1,1 +1,3 @@
-# example-design-pattern-bridge
+# Example design pattern bridge
+
+Decouple the abstraction from the implementation! :) 
